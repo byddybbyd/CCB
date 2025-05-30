@@ -1,0 +1,1 @@
+![[ccb-cpp-testing.jpeg]]
