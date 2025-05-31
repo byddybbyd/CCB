@@ -13,6 +13,7 @@
   - [电棍笑传之踩踩背](img/ccb.mp4)
 2. 文档
   - [x] [踩踩背](docs/ccb.md)
+  - [ ] [踩踩背角色](docs/ccb-characters.md)
   - [ ] [《踩踩背序》](docs/ccbx.md)
   - [ ] [踩踩背古诗词](docs/ccb-poems.md)
   - [ ] [踩踩背短语集](docs/ccb-words.md)
