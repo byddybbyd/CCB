@@ -11,6 +11,7 @@
 ## 导航
 1. 经典常谈
   - [电棍笑传之踩踩背](img/ccb.mp4)
+  - [背踩踩之传笑棍电](img/bcc.mp4)
 2. 文档
   - [x] [踩踩背](docs/ccb.md)
   - [ ] [踩踩背角色](docs/ccb-characters.md)
