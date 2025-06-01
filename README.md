@@ -9,17 +9,14 @@
 > 这是踩背史上最沉重的时刻。
 
 ## 导航
-1. 经典常谈
-  - [电棍笑传之踩踩背](img/ccb.mp4)
-  - [背踩踩之传笑棍电](img/bcc.mp4)
-2. 文档
+1. 文档
   - [x] [踩踩背](docs/ccb.md)
   - [ ] [踩踩背角色](docs/ccb-characters.md)
   - [ ] [《踩踩背序》](docs/ccbx.md)
   - [ ] [踩踩背古诗词](docs/ccb-poems.md)
   - [ ] [踩踩背短语集](docs/ccb-words.md)
   - [ ] [踩踩背档案馆](docs/ccb-archive.md)
-3. 代码
+2. 代码
   - [ ] [CCB.CPP](src/ccb.cpp)
   - [ ] [CCB.PY](src/ccb.py)
   - [ ] [CCB.RS](src/ccb.rs)
