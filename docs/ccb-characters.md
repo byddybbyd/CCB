@@ -2,7 +2,6 @@
 
 ## 主要人物
 ### 1. **大蓝象（白象精）**
-![大蓝象](https://media.githubusercontent.com/media/byddybbyd/CCB/refs/heads/main/img/dlx.jpg)  
 人物简介：
 ### 2. **豌豆**
 人物简介：
