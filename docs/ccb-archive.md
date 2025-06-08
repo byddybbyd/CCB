@@ -13,10 +13,10 @@
 |  袁伟江   | [栗瑞明](https://user.qzone.qq.com/308086470) | [Dr-山雨欲来](https://space.bilibili.com/494759113) |   ?    |
 
 ## 踩踩背序
-[踩踩背序](docs/ccbx.md)
+[踩踩背序](ccbx.md)
 
 ## 踩踩背角色
-[踩踩背角色](docs/ccb-characters.md)
+[踩踩背角色](ccb-characters.md)
 
 ## 总集
 - 袁伟江漫画踩踩背
